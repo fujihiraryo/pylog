@@ -1,0 +1,5 @@
+2020-03-05 14:57:20,858 main.py:4 [DEBUG] debug
+2020-03-05 14:57:20,858 main.py:5 [INFO] info
+2020-03-05 14:57:20,858 main.py:6 [WARNING] warning
+2020-03-05 14:57:20,858 main.py:7 [ERROR] error
+2020-03-05 14:57:20,858 main.py:8 [CRITICAL] critical
