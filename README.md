@@ -7,6 +7,17 @@ Pythonのログ出力モジュール
 python main.py
 ```
 
+```python
+import pylog
+logger = pylog.setup_logger()
+# ログを出力
+logger.debug("debug")
+logger.info("info")
+logger.warning("warning")
+logger.error("error")
+logger.critical("critical")
+```
+
 ```text
 2020-10-07 16:08:38,052 main.py:4 [DEBUG] debug
 2020-10-07 16:08:38,052 main.py:5 [INFO] info
